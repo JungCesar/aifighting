@@ -74,11 +74,11 @@
 }
 
 #block{
-    background-image: url("treefin.gif");
-    width: 70px;
+    background-image: url("boom.gif");
+    width: 90px;
     height: 200px;
     position: relative;
-    top: 190px;
+    top: 200px;
     left: 1000px;
     animation: block 6s infinite linear;
 }
