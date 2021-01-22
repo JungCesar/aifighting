@@ -76,7 +76,11 @@
 #block{
     background-image: url("boom.gif");
     width: 90px;
+<<<<<<< Updated upstream
     height: 200px;
+=======
+    height: 210px;
+>>>>>>> Stashed changes
     position: relative;
     top: 200px;
     left: 1000px;
